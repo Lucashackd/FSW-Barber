@@ -2,7 +2,7 @@ import { Avatar, AvatarImage } from "./ui/avatar"
 import { Badge } from "./ui/badge"
 import { Card, CardContent } from "./ui/card"
 
-// TODO receber agendamento como prop
+// TODO: receber agendamento como prop
 const BookingItem = () => {
   return (
     <>
